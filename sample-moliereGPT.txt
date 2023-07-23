@@ -1,0 +1,161 @@
+Overriding: out_dir = out-moliere-char
+Overriding: device = cpu
+number of parameters: 0.80M
+Loading meta from data/moliere_char/meta.pkl...
+
+donjuan: 
+Infidèles point mon cours, vous me faites de votre femme.
+
+harpagon: 
+Et vous avez de la vôtre, ne m'a point de bouches part de soulement tendresse à la juste contre de son affeux ; et n’aime pas tout ce que le repos de la grâce, et deux qu’ils pourrait toujours le tête furieux n’a pas ce qui vous avez du entendre entretiment, et il n’est pas votre permis au dessein de me l’argent que je ne sais pas jeter d’heureux !
+
+harpagon: 
+Nous avons viquer ? Madame, de son effet sur ma mainte ; 
+---------------
+
+mascarille: 
+Ce soupçon, quand je ne sois point à ne voir seul certaine ?
+
+argan: 
+Ah ! cela n’y est pas, et me bruit votre soin qui la plus sera petite éclate ; et il maît, et je vous pourrais toutes chasses l’esprit de l'un autre en cette si plus de te mal valeur jamais de nous autres.
+
+orgon: 
+Il vous jure de faire, et l’être aux mauvaisses, afin au lieué de le monde de l’avoir cette si héré de Comtion. Attendez, de la prompace a mauvaisé. Carossez-vous vous avez vu ce que vous voyez que c’es
+---------------
+
+Et que moi tout pas.
+
+valere: 
+Je ne vois renfermée de voir plus Mari que ce qu’il est ici, assez le Porter le demande de l’arment de ma foi, il est sens le mal tournerait ce que j’aime de sa faire mes sientiments d’amoureuses ; et il peut avoir la la rigueur de moi, et je ne saurais rien de votre meilleur.
+
+donjuan: 
+Ce façons dire tant de ce que c’est une étrompemps ; et si vous servirez épouser le menace, sille y prend qu’une sotte petitement de vos Gens.
+
+sganarelle: 
+Allons, Prénés du Courr
+---------------
+
+De grès je comprends que vous donne,
+Et vous enviez la lui dire des trésordres,
+Et vos molles en vous apprendre, des venirs mes coups,
+À traiter envie un Corps du Sœur,
+Suit fait trouvé ne contrait pas,
+Et malhons de quoi dit ces terres choses,
+Mais cent soins des vœux ne beaux marches que je vous tiendrai ?
+
+sganarelle: 
+Hedement, je ce que c’est parlé votre maladie.
+
+madame-de-sotenville: 
+Si je suis armes vient, et de votre sparole en froidère ici.
+
+lelie: 
+Prétendez homme ! c’est dans moi ! 
+---------------
+
+Le sort de leur a son esprit arronté.
+Nous ne m’avouerrons pas sans plus gens,
+Que pour vous jeter pour ravisser par un secret,
+Et que vous me loisir avec vrai ?
+
+sganarelle: 
+Non.
+
+montagne: 
+Allons s’abordent de Lucile, ma jour pour le côté de Remède rit satisfaits. Vous je le voulez promirer de nous vient pas donc de rien. Cela est le mort, et je le dise. Il m’a passé donné de la beau peu de mes esprits ordre de mon cœur. C’est admirables là-dessus aux Fourbes qu'elle les ait bon sur ; et com
+---------------
+
+genarelle: 
+Je vous avoue d’une seconde qu’avec de gailleur les femmes de sa glois, et résolution impatuel et dans l’amour, et le retonnait au temps de la mort ? Che, ah.
+
+prinches: 
+Mais en éclater un humbris aux forts de portés silles :
+On ne vous fassera pas moi, je se cours,
+Je n’ai fait rien de mon parmi de revenir toutes souhames ans
+De tout ce que moi !
+Ce sont-il dit de Tourner un Mufticieuse ;
+Et vous mal vouloir mon faveur elle, m’a fait aux comptesse ;
+Et ne me vous rendrez pas :
+Mais
+---------------
+
+morcuraugnas: 
+Oui.
+
+orgon: 
+Elle est vainque nous le rion mal ; oui.
+
+arnolphe: 
+Si je ne puis fâcher point de sa Père,
+Il les soins petitements qui se plaît des noms.
+
+valere: 
+Le sort d’un prétait sur les affaires ?
+
+sganarelle: 
+Tout beau que ce Monsieur Douceurs ?
+
+elmire: 
+Monsieur, par de son arme il ne pas rien ; et été que nous servirons de voir, et ces riens du coups donc votre nomberaste toujours le mien demeurer ; et que de ce qu’un me fait pour tous sentirs n’a aucuné que je me rend
+---------------
+
+mascarille: 
+Vertu de Monsieur les siences redantés ;
+Et les faibles cet effrontement, dont ils et n’est pas de souci.
+
+sganarelle: 
+Touché donc donc n’est point passés de mon amour ; et ma façoite le peut de Frale, de le condition m’a dit mon âme dont le monde.
+
+clitandre: 
+Hé bonnettes, celui-ci une démorde ?
+
+monsieur-jourdain: 
+Ah ! qu’apprêtes encor les petits indignes.
+
+marquis: 
+Ce nature sur mes prendront ainsi nous montrer,
+Qu’à même, et pour m’arrêter les soupirs de grâces,
+Que nous re
+---------------
+
+
+mascarille: 
+Pour vous savez au mien ?
+
+amphitryon: 
+Et ici ?
+
+arnolphe: 
+Ce fait son Phillosophe.
+De grâce pour votre soin louverte bien.
+
+celie: 
+Non, c’est rien dresle est amoureux, que bel heure arrête,
+Mais avait l’espoir, ou c’est une sextemple au Colle ;
+Et te ce quitte envoyence que j’ai fait autant ;
+Et que de blâton des Dieux :
+Cette volonté la vie,
+Dont il est votre amis en être nous a pas aux l’éconnaissents :
+Mais je n’entends point charmant.
+
+amour: 
+Si mon père est raison.
+
+sgana
+---------------
+
+Et n’avez pas ce qu’un main de faire aise en replique,
+Et son se vient autre en secours ce que je vous vois ?
+
+clitandre: 
+Un ribon nous accnontries sur mes amplons peut-vous fatter, que mon cœur allons assez pleine de la bonheur parler l’injustruile que je suis humeur.
+
+anselme: 
+Cela est vrai.
+
+mascarille: 
+Cela est annoncement dont ici passante certait : ce respès de toutes sentiments de Filles qui pourrait le mépris qu’on me ressemblée.
+
+la-comtesse: 
+Nous ouveons pas les charmes des charmes
+---------------

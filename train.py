@@ -4,7 +4,7 @@ and also in a larger training run with distributed data parallel (ddp).
 
 To run on a single GPU, example:
 $ python train.py --batch_size=32 --compile=False
-
+```
 To run with DDP on 4 gpus on 1 node, example:
 $ torchrun --standalone --nproc_per_node=4 train.py
 
@@ -229,7 +229,6 @@ def get_lr(it):
         return learning_rate * it / warmup_iters
     # 2) if it > lr_decay_iters, return min learning rate
     if it > lr_decay_iters:
-        return min_lr
     # 3) in between, use cosine decay down to min learning rate
     decay_ratio = (it - warmup_iters) / (lr_decay_iters - warmup_iters)
     assert 0 <= decay_ratio <= 1
