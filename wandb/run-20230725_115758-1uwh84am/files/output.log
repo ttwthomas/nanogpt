@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "d:\nanogpt\train.py", line 244, in <module>
-    X, Y = get_batch('train') # fetch the very first batch
-  File "d:\nanogpt\train.py", line 118, in get_batch
-    ix = torch.randint(len(data) - block_size, (batch_size,))
-TypeError: randint(): argument 'size' (position 2) must be tuple of ints, but found element of type float at pos 0
