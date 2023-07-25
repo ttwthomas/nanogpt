@@ -34,7 +34,7 @@ def parcourir_dossiers_et_recuperer_js(chemin, fichier_sortie, dossiers_a_exclur
 
 
 
-dossiers_a_exclure = ['node_modules', 'OS.JS',".pnpm-store","System Volume Information",'.next','Lib',"jupyter","blockbench","update-dependency","spec","client","win-unpacked","src","Amelia-React","density","Discord-Image-Scrapper","DiscordBotClient","drone","Git","gophish","i2d","mailer","msys64","my-app",".erb","OS.js","api-generator-main","Geekprank-main","miranet-main","SpacePirates-master","VSCode-win32","demo.os-js.org","static.parastorage.com","www.lottieheartkitty.com","geekprank.com","youtube","pigallery","spacecreation","Tabby","tabler","freyr-js","tweetback","uptime-kuma","_next","youtube-music-master"]
+dossiers_a_exclure = []
 # download the tiny shakespeare dataset
 input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')
 #if not os.path.exists(input_file_path):
