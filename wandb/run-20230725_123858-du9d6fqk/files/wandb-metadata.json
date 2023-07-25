@@ -1,0 +1,42 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-07-25T10:39:00.585132",
+    "startedAt": "2023-07-25T10:38:58.086192",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:\\nanogpt\\train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/alphaleadership/nanogpt.git",
+        "commit": "2777138880edde5c166a5d0f7165262c55f25b02"
+    },
+    "email": "alphaleadership.yt@gmail.com",
+    "root": "D:/nanogpt",
+    "host": "MPA-1420",
+    "username": "MPA",
+    "executable": "C:\\Users\\MPA\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2401.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2401.0
+        }
+    ],
+    "disk": {
+        "total": 447.12890577316284,
+        "used": 96.50908708572388
+    },
+    "memory": {
+        "total": 3.8935699462890625
+    }
+}
