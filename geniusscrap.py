@@ -4,7 +4,7 @@ from lyricsgenius import Genius
 import os
 
 # Set up the Genius API credentials
-access_token = "mNSJtBirG7VPy4T5VKumH1CtDpJJCxUwe3Nd19hq7g-g-E5pKD_vfb2YrVa_Zx7W"
+access_token = ""
 base_url = "https://api.genius.com"
 genius = Genius(access_token)
 
